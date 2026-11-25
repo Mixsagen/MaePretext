@@ -1,7 +1,7 @@
 ## Notes
 
 - The modpack is currently in development
-- The title and description will also be changed
+- The icon, name and description will also be changed
 
 # MaePretext
 A survival world that could exist without you
